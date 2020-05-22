@@ -15,13 +15,14 @@
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+github: [metadata]
 locale                   : "ko"
 title                    : "박현도 개발 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "박현도"
-description              : "박현도 개발 소스코드 저장소"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Park Hyundo"
+description              : ""
+url                      : "https://hyundoarch.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hyundoarch/hyundoarch.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "박현도"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Unity3D, C#, C++ Problem solving"
+  location         : "대한민국"
+  email            : "phd216@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
