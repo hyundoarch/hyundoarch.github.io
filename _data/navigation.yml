@@ -3,10 +3,10 @@ main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: "pages/about"
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+    url: "_pages/about"
+  - title: "Problem Solving"
+    url: "_pages/ps"
+  - title: "Unity3D Projects"
+    url: "_pages/u3d"
+  - title: "Source Code"
+    url: "_pages/code"
