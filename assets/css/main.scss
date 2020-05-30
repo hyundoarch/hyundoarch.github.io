@@ -6,3 +6,40 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800');
+
+.center {
+  text-align: center;
+}
+
+.vl-black {
+  border-left: 10px solid black ;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.deco-first::first-letter {
+  background-color: #C5BC97;
+  color: #FFFFFF;
+}
+
+.headline {
+  text-align: center;
+  margin-top: 15px;
+  font-family: 'Nanum Gothic';
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.subtitle {
+  text-align: center;
+  margin-top: 10px;
+  color: gray;
+  font-family: 'Nanum Gothic';
+  font-size: 15px;
+  font-weight: bold;
+}

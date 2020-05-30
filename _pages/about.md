@@ -1,8 +1,13 @@
 ---
-layout: page
-title: about
-author_profile: structured
+layout: singlepage
+author_profile: true
 read_time: false
 ---
 
-<object data = "{{ site.url }}/assets/documents/myPortf.pdf" width="1280" height="1000" type='application/pdf'/></object>
+[PDF 파일로 보기](../assets/documents/myPortf.pdf)
+
+
+
+
+![](../assets/documents/pf01.jpg)
+![](../assets/documents/pf02.jpg)
