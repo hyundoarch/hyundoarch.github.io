@@ -1,12 +1,16 @@
 ---
-layout: singlepage
+layout: single
+title: About
 author_profile: true
 read_time: false
 ---
-
-[PDF 파일로 보기](../assets/documents/myPortf.pdf)
-
-
+<div class= "normaltitle">개발자 박현도의 포트폴리오 입니다</div>
+<hr style = "color:gray">
+<div class= "center margin-top">
+  <a href="{{ baseurl }}/assets/documents/myPortf.pdf" class="btn btn--primary">PDF 파일 다운로드 (1.20mb)</a>
+<!-- [PDF 파일로 보기 ( 1.20mb )](../assets/documents/myPortf.pdf){:.btn .btn--info .center} -->
+</div>
+<br>
 
 
 ![](../assets/documents/pf01.jpg)

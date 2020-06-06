@@ -17,6 +17,15 @@
   border-left: 10px solid black ;
 }
 
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.margin-top {
+  margin-top: 25px;
+}
+
 img.center {
   display: block;
   margin: 0 auto;
@@ -24,6 +33,9 @@ img.center {
 
 .deco-first::first-letter {
   background-color: #C5BC97;
+  font-size: 35px;
+  padding-left: 5px;
+  padding-right: 5px;
   color: #FFFFFF;
 }
 
@@ -42,4 +54,84 @@ img.center {
   font-family: 'Nanum Gothic';
   font-size: 15px;
   font-weight: bold;
+}
+
+.normaltitle {
+  text-align: center;
+  margin-top: 15px;
+  display: inline;
+  padding: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+  background-color: #C5BC97;
+  font-family: 'Nanum Gothic';
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.normaltext {
+  text-align: center;
+  margin-top: 5px;
+  color: black;
+  font-family: 'Nanum Gothic';
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.float-frame {
+  margin-top: 40px;
+  overflow: hidden;
+}
+
+.float-left {
+  width: 300px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding: auto 0;
+  margin: auto;
+  float: left;
+}
+
+.float-left img{
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
+}
+
+.float-right {
+  width: 300px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding: auto 0;
+  margin: auto;
+  float: right;
+}
+
+.float-right img{
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
+}
+
+.float-center {
+  width: auto;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding: auto 0;
+  margin: auto;
+  margin-bottom: 20px;
+  float: center;
+}
+
+.float-center img{
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
 }

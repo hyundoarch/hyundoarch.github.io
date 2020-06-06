@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "박현도"
-  avatar           : "/assets/images/myPhoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/myPhoto_small.png  " # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Unity3D, C#, C++ Problem solving"
   location         : "대한민국"
   email            : "phd216@gmail.com"
