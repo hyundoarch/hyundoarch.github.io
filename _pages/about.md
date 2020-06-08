@@ -11,7 +11,5 @@ read_time: false
 <!-- [PDF 파일로 보기 ( 1.20mb )](../assets/documents/myPortf.pdf){:.btn .btn--info .center} -->
 </div>
 <br>
-
-
 ![](../assets/documents/pf01.jpg)
 ![](../assets/documents/pf02.jpg)
