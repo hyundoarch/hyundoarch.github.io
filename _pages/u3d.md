@@ -4,7 +4,7 @@ title: Unity3D Projects
 ---
 <div class= "normaltitle">Unity3D를 활용해 진행한 프로젝트를 설명하는 페이지 입니다</div>
 <hr style = "color:gray">
->PROJECT 1
+> ## PROJECT 1 : SUMWAY
 
 <div class="float-frame">
   <div class="float-left">
@@ -32,7 +32,7 @@ title: Unity3D Projects
 <hr style = "color:gray">
 <br>
 <hr style = "color:gray">
->PROJECT 2
+> ## PROJECT 2 : WalkerLand
 <div class="float-frame">
   <div class="float-center">
     <img src="{{site.baseurl}}/assets/images/projects/teaser-wl01.jpg"/>
@@ -59,7 +59,7 @@ title: Unity3D Projects
 <hr style = "color:gray">
 <br>
 <hr style = "color:gray">
->PROJECT3
+> ## PROJECT3 : Bunny's Cave
 <div class="float-frame">
   <div class="float-center">
     <img src="{{site.baseurl}}/assets/images/projects/teaser-bc01.jpg"/>
