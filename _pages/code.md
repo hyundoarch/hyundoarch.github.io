@@ -1,4 +1,6 @@
 ---
-layout: page
+layout: carouselonly
 title: code
 ---
+
+dsdd

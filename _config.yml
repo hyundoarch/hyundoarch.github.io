@@ -25,8 +25,8 @@ description              : ""
 url                      : "https://hyundoarch.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hyundoarch/hyundoarch.github.io"
-teaser                   : "/assets/images/500x300random.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/randomlogo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/teaser_main.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
